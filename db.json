@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Tulip",
+      "image": "https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&itemId=1407978-847&recipeName=680",
+      "price": 27.2,
+      "id": 8
+    },
+    {
+      "name": "Tulip",
+      "image": "https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&itemId=1407978-847&recipeName=680",
+      "price": 27.2,
+      "id": 9
     }
   ]
 }
